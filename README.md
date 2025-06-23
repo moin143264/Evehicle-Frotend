@@ -44,4 +44,4 @@ cd Evehicle-Frotend
 npm install
 
 # Start the development server
-npm run dev
+npm start
