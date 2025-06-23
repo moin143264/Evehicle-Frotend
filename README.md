@@ -9,10 +9,10 @@ This is the frontend application of the EV Charging Station Finder system, devel
 
 ## 🛠️ Technologies Used
 
-- **React.js** – Frontend UI framework
-- **Tailwind CSS** – Utility-first CSS framework for responsive styling
-- **React Router** – For SPA routing and navigation
-- **Axios** – For HTTP API communication
+- **React.js** – Frontend UI framework  
+- **Tailwind CSS** – Utility-first CSS framework for responsive styling  
+- **React Router** – For SPA routing and navigation  
+- **Axios** – For HTTP API communication  
 - **Vite** – Frontend tooling for fast development and builds
 
 ---
@@ -45,3 +45,11 @@ npm install
 
 # Start the development server
 npm start
+
+src/
+├── components/        # Reusable React components
+├── pages/             # Route-level pages
+├── services/          # Axios API calls
+├── assets/            # Icons, images, etc.
+├── styles/            # Custom styles (if any)
+
